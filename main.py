@@ -1,3 +1,3 @@
 print('Hello from Alina')
 print('second hello!')
-print('Тоже создаю конфликт')
+print('Мы оба создаем конфликт')
